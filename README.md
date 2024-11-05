@@ -10,7 +10,7 @@ I will place some Electron software that I consider garbage here and reverse-eng
   Contact: [ClearZero](https://t.me/ClearZero)
 - Or join the Telegram group for discussions.  
   Contact: [electron-RE-record](https://t.me/electron_re)
-- I recently found a related software written in C++, and it seems to be more interesting to me. But this repository is only intended to host the reverse-engineered files for Electron, because it's just so poorly made.
+- I recently found a related software written in C++, and it seems to be more interesting to me. But this repository is only intended to host the reverse-engineered files for Electron.
 ## Update by 2024.11.5
 - **源调试**
   Updated to version 2.7.0, the backend interface seems to have implemented authentication, and I am unable to download content.
