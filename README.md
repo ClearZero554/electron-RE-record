@@ -1,5 +1,6 @@
 # Electron Reverse Engineering Record
 # Record of Reverse Engineering and Development on Some Electron Applications
+I will place some Electron software that I consider garbage here and reverse-engineer it. The final product will be in the release section.
 
 ## Current Projects
 - **源调试**  
@@ -9,6 +10,7 @@
   Contact: [ClearZero](https://t.me/ClearZero)
 - Or join the Telegram group for discussions.  
   Contact: [electron-RE-record](https://t.me/electron_re)
-## Update by 2024.11.03
+- I recently found a related software written in C++, and it seems to be more interesting to me. But this repository is only intended to host the reverse-engineered files for Electron, because it's just so poorly made.
+## Update by 2024.11.5
 - **源调试**
-  Updated to version 2.6.9, the backend interface seems to have implemented authentication, and I am unable to download content.
+  Updated to version 2.7.0, the backend interface seems to have implemented authentication, and I am unable to download content.
