@@ -11,7 +11,8 @@ I will place some Electron software that I consider garbage here and reverse-eng
 - Or join the Telegram group for discussions.  
   Contact: [electron-RE-record](https://t.me/electron_re)
 - I recently found a related software written in C++, and it seems to be more interesting to me, but this repository is only intended to host the reverse-engineered files for Electron.  
-  I need to think about it.
-## Update by 2024.11.5
+  
+## Update by 2024.11.6
 - **源调试**
-  Updated to version 2.7.0, the backend interface seems to have implemented authentication, and I am unable to download content.
+ I have to re-evaluate this software; it has taken up far too much of my time, especially with the release notes. From uploading the ZIP package to finishing the release notes, it took me a full half-hour. That’s just too long—longer than it took me to reverse-engineer it. This is a real waste of my time, yet this   
+ kind of junk software shouldn't drive me away just because it’s poorly made. My original intention was to eliminate these garbage Electron-based applications, but it seems to be taking longer than expected.I need to think about it.
