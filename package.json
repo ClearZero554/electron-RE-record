@@ -1,0 +1,10 @@
+{
+  "name": "yts",
+  "version": "2.7.1",
+  "private": true,
+  "author": "武汉源来信息技术有限公司",
+  "main": "background.js",
+  "dependencies": {
+    "electron-screenshots": "^0.5.26"
+  }
+}
