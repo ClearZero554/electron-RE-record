@@ -1,3 +1,4 @@
+
 This is still a terrible program, so terrible that I no longer want to crack it. I'll leave this repository to you, and I'll open a new repository to document my research on Electron reverse engineering.
 Apologies for the delay in updating; due to some well-known reasons, I had to fight for my country, which delayed my research for quite some time. I will write some related notes in the README, and you can check them out.
 Here are some summaries: The new version of YTS uses a technology called bytenode, developed by someone on GitHub. However, this doesn't help much because V8 bytecode is public, and reverse-engineering it is not difficult.
